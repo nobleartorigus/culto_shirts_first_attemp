@@ -1,0 +1,3 @@
+1.- Disenar bases de datos en diagrama
+2.- Crear bases de datos en MySQL con claves primarias y ajenas
+3.- Maquetacion WEB ---->

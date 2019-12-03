@@ -1,0 +1,12 @@
+<! DOCTYPE html>
+<html>
+<head>
+<meta />
+<title>
+<link --- css>
+<body>
+
+Reglas de CSS:
+#nombredelidentificador{
+	propiedades: ;
+}

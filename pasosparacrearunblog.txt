@@ -1,0 +1,29 @@
+1.- Maquetacion de HTML:
+	*HTML de Cabecera
+	*HTML del menu de navegacion
+	*HTML del contenido principal
+	*HTML del pide de pagina
+
+2.- Estilos maqueta:
+	*Incluir archivo de css:
+		<link rel = "stylesheet" type = "text/css" href = ".assets/css/style.css"
+		*Incluir fuentes
+	*CSS general
+	*CSS del logotipo
+	*CSS del menu
+	*CSS del contenido principal
+	*CSS de la barra lateral
+	*CSS del pie de pagina
+
+3.- Separar maquetas en includes
+4.- Mejorar y pulir includes
+5.- Registro de usuarios
+6.- Mostar errores
+7.- Guardar usuarios
+8.- Escapar datos:
+	*Quitar comillas 
+
+9.- Maquetacion de alertas
+10.- Login de usuarios
+11.- Cerrar sesion
+12.- Maquetacion de los botones de la barra lateral
